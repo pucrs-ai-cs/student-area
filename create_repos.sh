@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-ASSIGNMENT=search
-# ASSIGNMENT=adversarial-search
-PACKAGE_DIR=../t1a/
-# PACKAGE_DIR=../t1b/
+# ASSIGNMENT=search
+ASSIGNMENT=adversarial-search
+# PACKAGE_DIR=../t1a/
+PACKAGE_DIR=../t1b/
 ORG=pucrs-ai-cs
 USER=meneguzzi
 STUDENTS=`pwd`/students
