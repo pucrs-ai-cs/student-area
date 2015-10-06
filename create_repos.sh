@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-ASSIGNMENT=search
+# ASSIGNMENT=search
 # ASSIGNMENT=adversarial-search
-# ASSIGNMENT=planning
+ASSIGNMENT=planning
 # ASSIGNMENT=reinforcement
-PACKAGE_DIR=../t1a/
-# PACKAGE_DIR=../t1b/
+# PACKAGE_DIR=../t1a/
+PACKAGE_DIR=../t1c/
 # PACKAGE_DIR=../t1c/
 # PACKAGE_DIR=../t2/
 ORG=pucrs-ai-cs
