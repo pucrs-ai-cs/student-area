@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
+export PATH=$PATH:/Library/Ruby/Gems/2.0.0/gems/teachers_pet-0.3.5/bin/
 
 # ASSIGNMENT=search
 # ASSIGNMENT=adversarial-search
-ASSIGNMENT=planning
-# ASSIGNMENT=reinforcement
+# ASSIGNMENT=planning
+ASSIGNMENT=reinforcement
 # PACKAGE_DIR=../t1a/
-PACKAGE_DIR=../t1c/
+# PACKAGE_DIR=../t1b/
 # PACKAGE_DIR=../t1c/
-# PACKAGE_DIR=../t2/
+PACKAGE_DIR=../t2/
 ORG=pucrs-ai-cs
 USER=meneguzzi
 STUDENTS=`pwd`/students

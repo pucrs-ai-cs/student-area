@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+export PATH=$PATH:/Library/Ruby/Gems/2.0.0/gems/teachers_pet-0.3.5/bin/
 
 # ASSIGNMENT=search
 # ASSIGNMENT=adversarial-search
